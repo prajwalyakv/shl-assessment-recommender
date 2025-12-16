@@ -34,7 +34,7 @@ Assessment descriptions and skill tags were consolidated into a **unified text c
 
 **TF-IDF (Term Frequency–Inverse Document Frequency)** was used to transform text into high-dimensional numerical vectors.
 
-### Similarity Scoring
+### 4. Similarity Scoring
 
 **Cosine Similarity** was applied to compute the semantic distance between:
 
